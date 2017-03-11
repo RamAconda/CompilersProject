@@ -1,0 +1,10 @@
+if(x=5);
+int y5n = 54;
+float z = 34.15;
+public class class_name extends java.io {
+void function(){
+string str = "hello";
+}
+}
+y*x/23;
+while(moh&&sos||tot)
